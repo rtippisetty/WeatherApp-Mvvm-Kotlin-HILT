@@ -15,6 +15,7 @@
 ### Architecture used ###
 * App is developed using Kotlin language
 * Application is designed and implemented with MVVM Architecture style + Repository+HILT DI
+* Display page is constituted with Recycler view 
 * Unit tests are done with Mockito
 
 ### Libraries/Components used ###
