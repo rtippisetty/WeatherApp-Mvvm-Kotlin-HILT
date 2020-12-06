@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="humidity_label">Humidity: %1$d\uFE6A</string>
+    <string name="visibility_label">Visibility: %1$s miles</string>
+    <string name="confidence_label">Confidence: %1$d\uFE6A</string>
+    <string name="max_label">Max: %1$s\u2103</string>
+    <string name="min_label">Min: %1$s\u2103</string>
+    <string name="wind_label">Wind: %1$s mph</string>
+    <string name="tomorrow_label">Tomorrow \n %1$s</string>
+    <string name="app_title">Weather Forecast</string>
+</resources>
